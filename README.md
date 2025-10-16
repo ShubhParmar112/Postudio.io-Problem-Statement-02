@@ -1,7 +1,7 @@
-## Automated Promo Creator
+# Automated Promo Creator
 A simple Python tool that automatically creates a short promo video from a longer input video by selecting the most dynamic scenes.
 
-⚙️ How It Works:
+⚙️ How It Works:<br>
 -Splits the video into segments.<br>
 -Detects motion using frame variance.<br>
 -Picks the most active clips.<br>
