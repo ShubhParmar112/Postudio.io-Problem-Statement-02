@@ -10,7 +10,7 @@ A simple Python tool that automatically creates a short promo video from a longe
 
 ## 🧩 Usage:<br>
 Place your video in the data/ folder as input_video.mp4<br>
-Run: `python main.py`
+Run: `python main.py`<br> 
 Output is saved in output/promo_output.mp4
 
 ## 🧩 Usage:<br>
